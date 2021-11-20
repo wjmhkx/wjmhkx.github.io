@@ -48,7 +48,7 @@ body a:hover {
 /*--baner--*/
 
 .banner {
-    background: url(../images/a.jpg)no-repeat center 0px;
+    background: url(../images/a.jpg)no-repeat center 0px ;
     -webkit-background-size: cover;
     background-size: cover;
     -moz-background-size: cover;
